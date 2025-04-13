@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import pickle
 
 # Set page layout and title
-st.set_page_config(page_title="Attri-NeuLift", layout="wide")
-st.title("Attri-NeuLift")
+st.set_page_config(page_title="Neural-Uplift", layout="wide")
+st.title("Neural-Uplift")
 
 # Load model
 @st.cache_resource
